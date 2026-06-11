@@ -2,3 +2,5 @@
 .ipynb_checkpoints/
 *.gv
 *.gv.png
+.DS_Store
+slides_build.py
