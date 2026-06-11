@@ -1,0 +1,5 @@
+# Strip notebook outputs from lesson notebooks on commit (via nbstripout).
+# The ignore/ solutions notebooks deliberately keep their outputs.
+1-CompBioAsia_Neurons.ipynb filter=nbstripout
+2-CompBioAsia_MNIST.ipynb filter=nbstripout
+3-CompBioAsia_SecondaryStructure.ipynb filter=nbstripout
